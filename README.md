@@ -18,10 +18,10 @@ On a très tôt générer la base du site avec panndoc ce qui nous a conduit à 
 
 ## Structure du projet
 
-```
+
 ProjetDocWeb/
 ├── MarkDown/
-│   ├── index.md
+│   ├── [index.md](MarkDown/index.md)
 │   ├── personnages.md
 │   ├── themes.md
 │   ├── saisons.md
@@ -50,7 +50,7 @@ ProjetDocWeb/
     ├── lupins3.png
     ├── PelligriniTab.png
     └── question.png
-```
+
 
 ## Structure des pages
 
