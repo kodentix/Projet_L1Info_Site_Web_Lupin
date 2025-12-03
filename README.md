@@ -1,4 +1,4 @@
-# Projet Base de Données - Univers Star Wars  
+# Projet_L1Info_Site_Web_Lupin
 Licence 1 Informatique - Projet de développement d'un site en HTML 1.0 & CSS (MAI 2025)
 
 ---
