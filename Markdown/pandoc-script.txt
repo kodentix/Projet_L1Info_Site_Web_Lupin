@@ -1,0 +1,10 @@
+#!/bin/bash
+
+mkdir -p sortiepandoc
+
+pandoc index.md -o sortiepandoc/index.html --template=template.html --metadata-file=metadata.yml --standalone -f markdown+fenced_divs+header_attributes+emoji -t html
+pandoc personnages.md -o sortiepandoc/personnages.html --template=template.html --metadata-file=metadata.yml --standalone -f markdown+fenced_divs+header_attributes+emoji -t html
+pandoc themes.md -o sortiepandoc/themes.html --template=template.html --metadata-file=metadata.yml --standalone -f markdown+fenced_divs+header_attributes+emoji -t html
+pandoc saisons.md -o sortiepandoc/saisons.html --template=template.html --metadata-file=metadata.yml --standalone -f markdown+fenced_divs+header_attributes+emoji -t html
+pandoc sources.md -o sortiepandoc/sources.html --template=template.html --metadata-file=metadata.yml --standalone -f markdown+fenced_divs+header_attributes+emoji -t html
+pandoc annexe.md -o sortiepandoc/annexe.html --template=template.html --metadata-file=metadata.yml --standalone -f markdown+fenced_divs+header_attributes+emoji -t html

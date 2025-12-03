@@ -1,0 +1,19 @@
+---
+author: "Corentin Houllier et Edouard Lecocq"
+lang: "fr"
+# Variables permettant d'activer les menus
+index_active: false
+personnages_active: false
+themes_active: false
+saisons_active: false
+sources_active: false
+annexe_active: false
+# Options
+standalone: true
+self-contained: false
+page-type: ""
+markdown-extensions:
+  - fenced_divs
+  - header_attributes
+  - emoji
+---
