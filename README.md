@@ -1,5 +1,7 @@
-# Projet_L1Info_Site_Web_Lupin
-Projet de 1ère année de Licence Informatique à l'Université du Havre
+# Projet Base de Données - Univers Star Wars  
+Licence 1 Informatique - Projet de développement d'un site en HTML 1.0 & CSS (MAI 2025)
+
+---
 
 ## Description du projet
 Ce projet permet de vous présenter la série Lupin apparu sur Netflix en 2021. On voulait mettre en valeur une série française porter par des acteurs français reconnu dans le monde du cinéma comme Omar Sy. Il y a aussi des scènes qui ont été tournés dans la région, notamment à  Etretat.
