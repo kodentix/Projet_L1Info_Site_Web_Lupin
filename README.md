@@ -14,7 +14,9 @@ On a très tôt générer la base du site avec panndoc ce qui nous a conduit à 
 
 ## Auteurs
 - Corentin Houllier
+  - GitHub : [@Kodentix](https://github.com/kodentix/)
 - Edouard Lecocq
+  - GitHub : [@EdouardInfo](https://github.com/EdouardInfo/)
 
 ## Structure du projet
 
